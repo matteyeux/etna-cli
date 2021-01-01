@@ -1,6 +1,5 @@
 # etna-cli
 [![PyPI version](https://badge.fury.io/py/etna-cli.svg)](https://badge.fury.io/py/etna-cli)
-[![Build Status](https://drone.matteyeux.com/api/badges/matteyeux/etna-cli/status.svg)](http://drone.matteyeux.com:8080/matteyeux/etna-cli)
 [![Packagist](https://img.shields.io/badge/Docs-etna-blue)](https://etna-cli.matteyeux.com)
 
 Python tool for my school
